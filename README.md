@@ -1,1 +1,1 @@
-# Bank-Project-C-49
+Bank Project Created Using Procedural C++ Programming. Used Functions Structures And other C++ Language features to write this quite effective C++ Bank Management System. It Creates ,Add and Delete bank Accounts of User also shows its acount Detail. We have Done Quite Good Error Management.
